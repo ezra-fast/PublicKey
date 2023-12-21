@@ -1,4 +1,4 @@
-# PublicKey for fastezra1@gmail.com
+# Public Key for fastezra1@gmail.com
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
