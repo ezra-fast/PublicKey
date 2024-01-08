@@ -1,4 +1,4 @@
-# Public Key for fastezra1@gmail.com
+# Public Key for ezrafast@tutanota.com
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
